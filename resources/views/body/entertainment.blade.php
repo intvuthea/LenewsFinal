@@ -1,7 +1,11 @@
 @extends("masterpage")
 @section("home")
 
-	<div class="inner-page-banner">
+
+
+
+
+<div class="inner-page-banner">
             <div class="container">
             </div>
          </div>
@@ -22,21 +26,21 @@
                   <div class="news-post-holder">
                      <div class="col-lg-6 col-sm-6 col-xs-12">
                         <div class="news-post-widget">
-                           <img class="img-responsive" src="images/airplane2.jpg" alt="">
+                           <img class="img-responsive" src="images/entertainment1.jpg" alt="">
                            <div class="news-post-detail">
                               <span class="date">19 July 2019</span>
-                              <h2><a href="blog-detail.html">No Flight in Southwest</a></h2>
-                              <p>Southwest won’t fly Boeing 737 Max until 2020 and will end Newark flights</p>
+                              <h2><a href="blog-detail.html">A Very Brady Bunch Renovation</a></h2>
+                              <p>'A Very Brady Bunch Renovation' reunites cast to bring the iconic TV family home back to life</p>
                            </div>
                         </div>
                      </div>
                      <div class="col-lg-6 col-sm-6 col-xs-12">
                         <div class="news-post-widget">
-                           <img class="img-responsive" src="images/eggs.jpg" alt="">
+                           <img class="img-responsive" src="images/entertainment2.jpg" alt="">
                            <div class="news-post-detail">
                               <span class="date">21 July 2019</span>
-                              <h2><a href="blog-detail.html">Regarding Eggs</a></h2>
-                              <p>Plant-based eggs are starting to land their first major fast food deal. It is actually a great deal for everyone around the globe.</p>
+                              <h2><a href="blog-detail.html">We have done nothing wrong</a></h2>
+                              <p>Country rock band Confederate Railroad booted from second state fair over its name: We've done nothing wrong'</p>
                            </div>
                         </div>
                      </div>
@@ -71,4 +75,6 @@
             </div>
          </div>
       </section>
+
+
 @endsection

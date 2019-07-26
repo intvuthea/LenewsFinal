@@ -58,9 +58,9 @@
                                           <li class="active"><a href="home">Home</a></li>
                                           <li><a href="sport">Sport</a></li>
                                           <li><a href="business">Business</a></li>
-                                          <li><a href="polytic">Polytic</a></li>
+                                          <li><a href="politic">Politic</a></li>
                                           <li class="dropdown mega-dropdown">
-                                             <a href="match" class="dropdown-toggle" data-toggle="dropdown">Match<span class="caret"></span></a>				
+                                             <a href="entertainment" class="dropdown-toggle" data-toggle="dropdown">Entertainment<span class="caret"></span></a>				
                                              <ul class="dropdown-menu mega-dropdown-menu">
                                                 <li class="col-sm-8">
                                                    <ul>
@@ -109,8 +109,8 @@
                                                 </li>
                                              </ul>
                                           </li>
-                                          <li><a href="blog">Blog</a></li>
-                                          <li><a href="contact">contact</a></li>
+                                          <li><a href="lifestyle">Lifestyle</a></li>
+                                          <li><a href="contact">Contact</a></li>
                                        </ul>
                                     </div>
                                     <!-- /.nav-collapse -->
@@ -167,7 +167,7 @@
                         <div class="footer-logo">
                            <a href="#"><img src="images/footer-logo.png" alt="#" /></a>
                         </div>
-                        <p>Most of our events have hard and easy route choices as we are always keen to encourage new riders.</p>
+                        <p>Many People tend to do nothing when they are free. Why don't you try to start reading news instead?</p>
                         <ul class="social-icons style-4 pull-left">
                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
                            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
@@ -204,13 +204,13 @@
                      </div>
                   </div>
                </div>
-               <div class="col-md-3">
+               <!-- <div class="col-md-3">
                   <div class="full">
                      <div class="contact-footer">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d120615.72236587871!2d73.07890527988283!3d19.140910987164396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1527759905404" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                      </div>
                   </div>
-               </div>
+               </div> -->
             </div>
          </div>
          <div class="footer-bottom">
