@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('auth.login');
 });
 Route::get('/{name}', function ($name) {
     return view('body.'.$name);
@@ -38,6 +38,10 @@ Route::get('/{name}', function ($name) {
  //    }
  //    return $name;
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
 
 Auth::routes();
 

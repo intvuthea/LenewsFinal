@@ -119,11 +119,11 @@
                         <li><a href="#">Messi wins libel case.</a></li>
                      </ul>
                   </div>
-                  <aside id="sidebar" class="right-bar">
+                  <!-- <aside id="sidebar" class="right-bar">
                      <div class="banner">
                         <img class="img-responsive" src="images/adds-3.jpg" alt="#">
                      </div>
-                  </aside>
+                  </aside> -->
                </div>
             </div>
          </div>
