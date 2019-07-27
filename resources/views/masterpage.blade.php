@@ -34,8 +34,11 @@
 <body class="game_info" data-spy="scroll" data-target=".header">
 	<div>
 		 <header>
+         
             <div class="container">
-               <br>
+               <img src="images/LenewsLogo.jpg" style="width: 80px; display: block; width: 10%; margin-top: 6px">
+              <!--  <br>
+               <br> -->
                <br>
                <div class="header-bottom">
                   <div class="row">
@@ -53,7 +56,9 @@
                                        </button>
                                        <a class="navbar-brand" href="#">Menu</a>
                                     </div>
+
                                     <div class="collapse navbar-collapse js-navbar-collapse">
+
                                        <ul class="nav navbar-nav">
                                           <li class="active"><a href="home">Home</a></li>
                                           <li><a href="sport">Sport</a></li>
@@ -182,11 +187,12 @@
                      <div class="footer-widget">
                         <h3>Menu</h3>
                         <ul class="footer-menu">
-                           <li><a href="about">About Us</a></li>
-                           <li><a href="team">Our Team</a></li>
-                           <li><a href="news">Latest News</a></li>
-                           <li><a href="matche">Recent Matchs</a></li>
-                           <li><a href="blog">Our Blog</a></li>
+                           <li><a href="home">Home</a></li>
+                           <li><a href="sport">Sport</a></li>
+                           <li><a href="business">Business</a></li>
+                           <li><a href="politic">Politic</a></li>
+                           <li><a href="entertainment">Entertainment</a></li>
+                           <li><a href="lifestyle">Lifestyle</a></li>
                            <li><a href="contact">Contact Us</a></li>
                         </ul>
                      </div>
@@ -195,11 +201,11 @@
                <div class="col-md-3">
                   <div class="full">
                      <div class="footer-widget">
-                        <h3>Contact us</h3>
+                        <h3 style="margin-left: 30px">Contact us</h3>
                         <ul class="address-list">
-                           <li><i class="fa fa-map-marker"></i> Lorem Ipsum is simply dummy text of the printing..</li>
-                           <li><i class="fa fa-phone"></i> 123 456 7890</li>
-                           <li><i style="font-size:20px;top:5px;" class="fa fa-envelope"></i> demo@gmail.com</li>
+                           <li style="color: white;"><i class="fa fa-map-marker" style="color: white;"></i>Boung Salang, Toul Kork, Phnom Penh</li>
+                           <li style="color: white;"><i class="fa fa-phone"></i> 098 909 220</li>
+                           <li style="color: white;"><i style="font-size:20px;top:5px;" class="fa fa-envelope"></i> siv@lenews.com</li>
                         </ul>
                      </div>
                   </div>
