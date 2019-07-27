@@ -12,8 +12,15 @@
 */
 
 Route::get('/', function () {
-    return view('auth.login');
+    return view('welcome');
 });
+Route::get('/register',function(){
+	return view('auth.register');
+});
+Route::get('/login',function(){
+	return view('auth.login');
+});
+
 Route::get('/{name}', function ($name) {
     return view('body.'.$name);
 
